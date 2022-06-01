@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Jogo de Perguntas</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pular">pular</string>
+    <string name="exibir_resposta">exibir resposta</string>
+    <string name="cadastrar_perguntas_e_respostas">cadastrar perguntas e repostas</string>
+    <string name="cadastre_uma_pergunta_para_jogar">cadastre uma pergunta para jogar</string>
+    <string name="jogar"><![CDATA[Jogar >]]></string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="resposta">Resposta</string>
+    <string name="pergunta">Pergunta</string>
+</resources>
